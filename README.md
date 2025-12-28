@@ -10,7 +10,7 @@
 
 ---
 
-## Proyectos Destacado: 
+## Proyectos Destacados: 
 
 ### 🌌 A World Away - NASA 2025
 *Identificador de Exoplanetas impulsado por ML con una experiencia 3D inmersiva.*
