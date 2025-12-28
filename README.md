@@ -1,11 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Michael%20Taboada&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
   
-  <h3>🚀 Desarrollador Frontend & Entusiasta del Espacio</h3>
+  <h3>🚀 Desarrollador Frontend & Entusiasta de Python</h3>
   
   <p>
-    <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/michael-andrés-taboada-naranjo-0263171b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </p>
 </div>
 
@@ -15,7 +14,14 @@
 *Identificador de Exoplanetas impulsado por ML con una experiencia 3D inmersiva.*
 
 <div align="center">
-  <img src="https://tu-link-al-gif-de-la-app.gif" width="80%" alt="NASA App Demo" style="border-radius: 10px;"/>
+  <a href="https://a-world-away-nasa2025-web.vercel.app/es-ES" target="_blank">
+    <img src="https://github.com/user-attachments/assets/c8236744-78a3-4848-baab-474a4d8c402c" 
+         width="85%" 
+         alt="A World Away - NASA 2025 Demo" 
+         style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);"/>
+  </a>
+  <p><i>🚀 Haz clic en la imagen para explorar exoplanetas en vivo</i></p>
+</div>
   
   <p><i>Implementación de Three.js, Shaders avanzados y modelos de Machine Learning para la exploración espacial.</i></p>
 </div>
@@ -54,7 +60,7 @@
   <table border="0">
     <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelTaboada2003&theme=vue-dark&hide_border=true" alt="Streak Stats"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelTaboada2003&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Langs"/></td>
+      <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MichaelTaboada2003&layout=compact&theme=vue-dark" /></td>
     </tr>
   </table>
 </div>
