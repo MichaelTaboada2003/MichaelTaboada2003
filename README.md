@@ -61,7 +61,7 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelTaboada2003&theme=vue-dark&hide_border=true" alt="Streak Stats"/></td>
+      <td><img src="https://streak-stats.demolab.com/?user=MichaelTaboada2003&theme=vue-dark&hide_border=true" alt="Streak Stats"/></td>
       <td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MichaelTaboada2003&layout=compact&theme=vue-dark" /></td>
     </tr>
   </table>
