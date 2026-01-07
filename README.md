@@ -32,28 +32,32 @@
 
 ### 🛠️ My Tech Stack
 
+<div align="center">
+
 <table>
   <tr>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Backend/ML</strong></td>
-    <td align="center" width="25%"><strong>DevOps & Tools</strong></td>
-    <td align="center" width="25%"><strong>Design</strong></td>
+    <td align="center" width="200"><strong>Frontend</strong></td>
+    <td align="center" width="200"><strong>Backend & AI</strong></td>
+    <td align="center" width="200"><strong>DevOps & Tools</strong></td>
+    <td align="center" width="200"><strong>Database & Docs</strong></td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" valign="top">
       <img src="https://skillicons.dev/icons?i=astro,tailwind,html,css,js&perline=3" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py,cpp&perline=2" />
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch&perline=2" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&perline=2" />
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=2" />
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=md&perline=1" />
+    <td align="center" valign="top">
+      <img src="https://skillicons.dev/icons?i=mysql,latex,md&perline=2" />
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
