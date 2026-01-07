@@ -10,22 +10,29 @@
 
 ---
 
-## Proyectos Destacados: 
-
-### 🌌 A World Away - NASA 2025
-*Identificador de Exoplanetas impulsado por ML con una experiencia 3D inmersiva.*
+## 🚀 Proyectos Destacados
 
 <div align="center">
-  <a href="https://a-world-away-nasa2025-web.vercel.app/es-ES" target="_blank">
-    <img src="https://github.com/user-attachments/assets/c8236744-78a3-4848-baab-474a4d8c402c" 
-         width="85%" 
-         alt="A World Away - NASA 2025 Demo" 
-         style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);"/>
-  </a>
-  <p><i>🚀 Haz clic en la imagen para explorar exoplanetas en vivo</i></p>
-</div>
-  
-  <p><i>Implementación de Three.js, Shaders avanzados y modelos de Machine Learning para la exploración espacial.</i></p>
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <a href="https://networking-livid.vercel.app/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/98d4f671-e4c6-4e7b-aaa3-c7d49174b24c" width="100%" alt="Uninetwork" style="border-radius:10px;"/>
+      </a>
+      <h4>🌐 Uninetwork</h4>
+      <p><small>Plataforma de networking profesional con enfoque en escalabilidad y UX fluida.</small></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br />
+      <a href="https://a-world-away-nasa2025-web.vercel.app/es-ES" target="_blank">
+        <img src="https://github.com/user-attachments/assets/c8236744-78a3-4848-baab-474a4d8c402c" width="100%" alt="NASA 2025" style="border-radius:10px;"/>
+      </a>
+      <h4>🌌 A World Away - NASA</h4>
+      <p><small>Identificador de Exoplanetas con Three.js, Shaders y Machine Learning.</small></p>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
